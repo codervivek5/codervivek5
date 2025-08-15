@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/codervivek5" target="blank"><img src="https://img.shields.io/twitter/follow/codervivek5?logo=twitter&style=for-the-badge" alt="codervivek5" /></a> </p>
 
-- 🔭 I’m currently working on **TechDilation**
+- 🔭 I’m currently working on **Unimrkt Response**
 
-- 🌱 I’m currently learning **React Js, Node js (Full stack development)**
+- 🌱 I’m currently learning **Python,LLM,Agentic AI, Generative AI**
 
-- 👯 I’m looking to collaborate on [VigyBag](https://www.vigybag.com)
+- 👯 I’m looking to collaborate on [VigyBag](https://vigy-bag.vercel.app/)
 
-- 💬 Ask me about **React, Node js, JavaScript, Java, Git, GitHub**
+- 💬 Ask me about **Data Scientist,React, Node js, JavaScript, Git, GitHub, Docker, Azure Portal**
 
 - 📫 How to reach me **prajapativivek998@gmail.com**
 
